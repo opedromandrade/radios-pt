@@ -206,7 +206,7 @@
                 },
                 "webLabel": {
                     "type": "literal",
-                    "value": "https://m80.iol.pt/"
+                    "value": "https://m80.pt/"
                 }
             },
             {
@@ -266,7 +266,7 @@
                 },
                 "webLabel": {
                     "type": "literal",
-                    "value": "http://rfm.pt/"
+                    "value": "https://rfm.sapo.pt/"
                 }
             },
             {
@@ -313,20 +313,20 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
-                    "value": "Point(-17.159113055 32.719726944)"
+                    "value": "Point(-8.626658561 39.916706764)"
                 },
                 "item": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q10365613"
+                    "value": "http://www.wikidata.org/entity/Q107641833"
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "R\u00e1dio Calheta",
+                    "value": "R\u00e1dio Cardal",
                     "xml:lang": "pt"
                 },
                 "webLabel": {
                     "type": "literal",
-                    "value": "http://www.radiocalheta.pt/"
+                    "value": "http://www.radiocardal.com"
                 }
             },
             {
@@ -341,12 +341,12 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "R\u00e1dio Clube da Madeira",
+                    "value": "R\u00e1dio Clube",
                     "xml:lang": "pt"
                 },
                 "webLabel": {
                     "type": "literal",
-                    "value": "http://clube.radiosmadeira.pt/"
+                    "value": "https://rclube.pt/"
                 }
             },
             {
@@ -386,7 +386,7 @@
                 },
                 "webLabel": {
                     "type": "literal",
-                    "value": "http://www.radiocomercial.iol.pt"
+                    "value": "https://radiocomercial.pt/"
                 }
             },
             {
@@ -413,6 +413,26 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.538144039 40.619376335)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q107641870"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "R\u00e1dio Imagem",
+                    "xml:lang": "pt"
+                },
+                "webLabel": {
+                    "type": "literal",
+                    "value": "https://imagemfm.pt/"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-16.9104018 32.6510569)"
                 },
                 "item": {
@@ -427,6 +447,26 @@
                 "webLabel": {
                     "type": "literal",
                     "value": "https://www.jm-madeira.pt/radio88"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.096773148 41.076766213)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q107641664"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "R\u00e1dio Montemuro",
+                    "xml:lang": "pt"
+                },
+                "webLabel": {
+                    "type": "literal",
+                    "value": "https://radiomontemuro.pt/"
                 }
             },
             {
@@ -706,7 +746,7 @@
                 },
                 "webLabel": {
                     "type": "literal",
-                    "value": "https://smoothfm.iol.pt/"
+                    "value": "https://smoothfm.pt/"
                 }
             },
             {
@@ -746,47 +786,7 @@
                 },
                 "webLabel": {
                     "type": "literal",
-                    "value": "http://www.tsf.pt/"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.174660672 38.757186219)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q2384927"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "TSF R\u00e1dio Not\u00edcias",
-                    "xml:lang": "pt"
-                },
-                "webLabel": {
-                    "type": "literal",
                     "value": "http://tsf.pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.174660672 38.757186219)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q2384927"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "TSF R\u00e1dio Not\u00edcias",
-                    "xml:lang": "pt"
-                },
-                "webLabel": {
-                    "type": "literal",
-                    "value": "https://www.tsf.pt/"
                 }
             },
             {
